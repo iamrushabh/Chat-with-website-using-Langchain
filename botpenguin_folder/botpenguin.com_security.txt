@@ -1,0 +1,156 @@
+URL: https://botpenguin.com/security
+Security | BotPenguin- Free AI Chatbot Maker with ChatGPT
+Why BotPenguin
+Product
+Solutions
+Pricing
+Partners
+Resources
+Login
+Get Started FREE
+Integrations
+Experience 80+ world-class integrations.
+Key Features
+Take your business to the next level with our awesome key features.
+Live Chat
+Stay in the loop with your clientele 24*7!
+Unified Inbox
+Serve your customers across all platforms.
+Analytics
+Speedtrack your growth with our top-of-the-line analytics tools!
+Mobile App
+Make, monitor, & manage your AI chatbots with our mobile app.
+CHATBOT COMPARISONS
+BotPenguin vs. Manychat
+BotPenguin vs. Tidio
+BotPenguin vs. Tawk.to
+BotPenguin vs. Wati
+BotPenguin vs. Interakt
+BotPenguin vs. AiSensy
+BotPenguin vs. Landbot
+WHAT CAN IT DO?
+Marketing Automation
+Make marketing a boon from the automation gods!
+FB Automation
+Engage with your customers on a deeper level.
+WhatsApp Automation
+Get that nifty automation for WhatsApp too!
+Appointment Bookings
+No more delays, BotPenguin’s got you here!
+Customer Support
+Your customers are in for a treat with this automation.
+Lead Generation
+Gain more lead without any extra effort or expenses
+WHO CAN USE IT?
+Healthcare
+Give your patients world-class healthcare service!
+Education
+Make admissions and automate processes in a jiffy!
+E-commerce
+Create the best E-commerce service with ease!
+Real Estate
+Make Real Estate great again with BotPenguin!
+Consultants
+Boost up with our one-stop marketing solution!
+SaaS
+Take your SAAS game to the next level with BotPenguin!
+Tours & Travels
+Provide extraordinary tour and travel services with BotPenguin!
+Insurance
+Launch AI-driven Insurance Bot to Promote, Sell, & Manage Policies.
+WHERE CAN IT RUN?
+Instagram Chatbot
+Attract leads, boost sales, and chat 24/7 with Instagram Chatbots.
+WhatsApp Chatbot
+Start conversing like a real person with BotPenguin!
+Telegram Chatbot
+Cutting-edge features for you to grow your business on Telegram.
+Facebook Chatbot
+Do everything at once with BotPenguin on Facebook.
+Websites Chatbot
+BotPenguin grows your website and keeps your customers engaged.
+Wordpress Chatbot
+BotPenguin thrives on WordPress and makes it awesome.
+Microsoft Teams Chatbot
+Maximize your teams productivity with MS Teams Bot.
+Shopify Chatbot
+Boost your Shopify Business With BotPenguin’s AI-powered chatbot.
+WooCommerce Chatbot
+Sell effortlessly on your WooCommerce store with BotPenguin.
+Squarespace Chatbot
+Get the most out of Squarespace with BotPenguin
+CUSTOM DEVELOPMENT
+Whitelabel ChatGPT
+Apply your branding on ChatGPT, Launch your own AI platform
+ChatGPT Custom Plugins
+Integrate your service straight into ChatGPT
+Custom Chatbot Development
+Build enterprise-grade chatbots with the best
+ChatGPT Clone
+Add functionality and branding on ChatGPT
+HIRE DEVELOPERS
+Chatbot Developers
+Build Lighter, Faster, Smarter-Efficiently
+ChatGPT Developers
+Ride the GPT wave with trained surfers
+ChatGPT Consultants
+Advice that makes the difference in your AI journey
+PARTNER PROGRAMS
+Partners Home
+Join hands with us, and welcome growth
+WhatsApp Whitelabel Partners
+Conquer the WhatsApp land with BotPenguin’s White Label Platform
+Whitelabel Partners
+Say hi to the best Whitelabel chatbot platform ever
+Affiliate Partners
+Earn more and keep your clients happier
+Implementation Partners
+As they say, a partner is worth trillions!
+PARTNER PRICING
+Whitelabel Chatbot Pricing
+Our pricing for Whitelabel Chatbot
+Implementation Partnership Pricing
+Our pricing for Implementation Partnership
+OUR RESOURCES
+Blogs
+Read the latest blogs on chatbots, AI, automations & more
+Videos
+Watch tutorials, webinars, and demos to master our chatbots.
+Case Study
+Read how BotPenguin transformed business communication
+E-book
+Explore e-books written by experts for all your business needs!
+Help Docs
+Find detailed guides and tips for all your chatbot needs.
+Newsroom
+Explore how BotPenguin is making headlines in the chatbot industry.
+Community Support
+Join our vibrant community to unlock exclusive content & expert guidance
+LATEST BLOG
+Why is BotPenguin the best platform to develop a chatbot?
+Introducing ChatGPT 4o for BotPenguin
+Create your first AI Chatbot
+Get Started FREE
+Security at BotPenguin
+Welcome to BotPenguin!
+BotPenguin has agreements with third parties and has adopted other security measures in place to protect against the loss, misuse and/or unauthorized alteration of the information under our control or under the control of our service providers. Your personally identifiable information is protected by utilizing both online and offline security methods, including firewalls, passwords and restricted physical access to the places where your information is stored.
+We host in world-class facilities.
+All BotPenguin services and data are hosted in Amazon Web Services facilities in Frankfurt.
+             Further details about the considerable measures Amazon take in securing their facilities and services can be found here:,https://aws.amazon.com/security/,https:
+            //aws.
+            amazon.com
+            /security/
+We make daily backups of all user data.
+As a safety measure, we make daily backups of all the data which are replicated to the other geographical location, so copies are stored at an off-site location for disaster recovery.
+We encrypt your data in-transit.
+All browser connections and communications are transmitted over SSL (TLS), ensuring data privacy and integrity.
+We secure our networks.
+All our environments are hosted in a Virtual Private Cloud (VPC) in Amazon Web Services. Our production networks are separated between public and internal services. No inbound internet traffic is allowed on the private subnets, and all application servers only reside in private subnets without public IP addresses.
+We do not store payment details.
+BotPenguin is not in the business of storing or processing payments. All payments made to BotPenguin goes through our partner, Stripe. All credit card data is encrypted by an SSL connection when transmitting to their PCI-Compliant network. Details about their security setup and PCI compliance can be found on Stripe's security page.
+We use proactive security monitoring and auditing.
+We collect application, infrastructure and systems logs in a centrally managed log repository for monitoring, troubleshooting, security reviews, and analysis by authorized personnel. Logs are preserved in accordance with regulatory requirements to assist in the case of a security incident.
+We have external penetration tests performed regularly.
+As part of our security strategy, we hire well-recognized security research firms to perform penetration tests on our platform. Vulnerabilities and findings are ranked and prioritized according to the severity.,This means we let security experts come in and try to break stuff, to help us find any weaknesses.
+We never stop improving our product.
+Stale software is boring. We update our software infrastructure on a regular basis to ensure the latest techniques and advances in technology are harnessed to keep your data secure, designs accessible, and your interest in BotPenguin.

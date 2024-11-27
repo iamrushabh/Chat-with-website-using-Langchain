@@ -1,0 +1,310 @@
+URL: https://botpenguin.com/glossary/gdpr
+GDPR: General Data Protection Regulation | BotPenguin
+Why BotPenguin
+Product
+Solutions
+Pricing
+Partners
+Resources
+Login
+Get Started FREE
+Integrations
+Experience 80+ world-class integrations.
+Key Features
+Take your business to the next level with our awesome key features.
+Live Chat
+Stay in the loop with your clientele 24*7!
+Unified Inbox
+Serve your customers across all platforms.
+Analytics
+Speedtrack your growth with our top-of-the-line analytics tools!
+Mobile App
+Make, monitor, & manage your AI chatbots with our mobile app.
+CHATBOT COMPARISONS
+BotPenguin vs. Manychat
+BotPenguin vs. Tidio
+BotPenguin vs. Tawk.to
+BotPenguin vs. Wati
+BotPenguin vs. Interakt
+BotPenguin vs. AiSensy
+BotPenguin vs. Landbot
+WHAT CAN IT DO?
+Marketing Automation
+Make marketing a boon from the automation gods!
+FB Automation
+Engage with your customers on a deeper level.
+WhatsApp Automation
+Get that nifty automation for WhatsApp too!
+Appointment Bookings
+No more delays, BotPenguin’s got you here!
+Customer Support
+Your customers are in for a treat with this automation.
+Lead Generation
+Gain more lead without any extra effort or expenses
+WHO CAN USE IT?
+Healthcare
+Give your patients world-class healthcare service!
+Education
+Make admissions and automate processes in a jiffy!
+E-commerce
+Create the best E-commerce service with ease!
+Real Estate
+Make Real Estate great again with BotPenguin!
+Consultants
+Boost up with our one-stop marketing solution!
+SaaS
+Take your SAAS game to the next level with BotPenguin!
+Tours & Travels
+Provide extraordinary tour and travel services with BotPenguin!
+Insurance
+Launch AI-driven Insurance Bot to Promote, Sell, & Manage Policies.
+WHERE CAN IT RUN?
+Instagram Chatbot
+Attract leads, boost sales, and chat 24/7 with Instagram Chatbots.
+WhatsApp Chatbot
+Start conversing like a real person with BotPenguin!
+Telegram Chatbot
+Cutting-edge features for you to grow your business on Telegram.
+Facebook Chatbot
+Do everything at once with BotPenguin on Facebook.
+Websites Chatbot
+BotPenguin grows your website and keeps your customers engaged.
+Wordpress Chatbot
+BotPenguin thrives on WordPress and makes it awesome.
+Microsoft Teams Chatbot
+Maximize your teams productivity with MS Teams Bot.
+Shopify Chatbot
+Boost your Shopify Business With BotPenguin’s AI-powered chatbot.
+WooCommerce Chatbot
+Sell effortlessly on your WooCommerce store with BotPenguin.
+Squarespace Chatbot
+Get the most out of Squarespace with BotPenguin
+CUSTOM DEVELOPMENT
+Whitelabel ChatGPT
+Apply your branding on ChatGPT, Launch your own AI platform
+ChatGPT Custom Plugins
+Integrate your service straight into ChatGPT
+Custom Chatbot Development
+Build enterprise-grade chatbots with the best
+ChatGPT Clone
+Add functionality and branding on ChatGPT
+HIRE DEVELOPERS
+Chatbot Developers
+Build Lighter, Faster, Smarter-Efficiently
+ChatGPT Developers
+Ride the GPT wave with trained surfers
+ChatGPT Consultants
+Advice that makes the difference in your AI journey
+PARTNER PROGRAMS
+Partners Home
+Join hands with us, and welcome growth
+WhatsApp Whitelabel Partners
+Conquer the WhatsApp land with BotPenguin’s White Label Platform
+Whitelabel Partners
+Say hi to the best Whitelabel chatbot platform ever
+Affiliate Partners
+Earn more and keep your clients happier
+Implementation Partners
+As they say, a partner is worth trillions!
+PARTNER PRICING
+Whitelabel Chatbot Pricing
+Our pricing for Whitelabel Chatbot
+Implementation Partnership Pricing
+Our pricing for Implementation Partnership
+OUR RESOURCES
+Blogs
+Read the latest blogs on chatbots, AI, automations & more
+Videos
+Watch tutorials, webinars, and demos to master our chatbots.
+Case Study
+Read how BotPenguin transformed business communication
+E-book
+Explore e-books written by experts for all your business needs!
+Help Docs
+Find detailed guides and tips for all your chatbot needs.
+Newsroom
+Explore how BotPenguin is making headlines in the chatbot industry.
+Community Support
+Join our vibrant community to unlock exclusive content & expert guidance
+LATEST BLOG
+Why is BotPenguin the best platform to develop a chatbot?
+Introducing ChatGPT 4o for BotPenguin
+Create your first AI Chatbot
+Get Started FREE
+GLOSSARY
+GDPR
+Table of Contents
+What is GDPR?
+GDPR: Key Components
+The Path to GDPR Compliance
+Rules and Repercussions: GDPR Enforcement
+GDPR as a Global Standard
+Frequently Asked Questions (FAQs)
+Share
+Link copied
+What is GDPR?
+The General Data Protection Regulation (GDPR) is a comprehensive data protection law that came into effect on May 25, 2018, in the European Union (EU).
+It aims to provide individuals with more significant control over their personal data while ensuring transparency and accountability from organizations that process personal data.
+GDPR is built upon and replaces the 1995 Data Protection Directive (Directive 95/46/EC), which previously governed data privacy within European countries.
+It has been conceived and developed over the years to address the significant data privacy concerns that came with technological advancements and the rise of the digital economy.
+With GDPR in place, organizations handling personal data are now bound to adhere to strict data protection guidelines and citizens of the EU benefit from enhanced data protection rights.
+This regulation has become a benchmark for global data protection laws. The GDPR applies not only to businesses located within the EU but also to entities outside the EU that process the personal data of EU residents, making its impact far-reaching and truly international.
+GDPR: Key Components
+"Personal data" equals any information that can point directly or indirectly to a person.
+So, your name, email ID, identification number, location coordinates, or even your device's IP address falls under this.
+Who's the “Data Subject” and “Data Controller"?
+If you're a person whose personal data is being processed, you're the "data subject." And the one or the institution governing how and why your data is being processed – they're the "data controller."
+Principles of GDPR
+Our super-protector, GDPR, wields seven principles as its superhero gear; these include lawfulness, fairness, transparency, purpose limitation, data minimization, accuracy, storage limitation, integrity/confidentiality (security), and accountability.
+Rights of Data Subjects: Your Superpowers
+As a data subject, GDPR gifts you several rights. You've got the right to access, correct ("rectification"), erase ("right to be forgotten"), limit processing, portability of data, objection, and an important one - the right not to be subject to decisions made solely through automated processing (even profiling).
+Unlock the Secrets of GDPR
+Get Started FREE
+The Path to GDPR Compliance
+GDPR wants companies to breathe privacy - right from when they define their business processes and system designs to setting privacy as the baseline for their services and products. It's all about making privacy an integral part of every digital weave!
+Undergoing a DPIA becomes a must-do for organizations when they delve into high-risk data-processing activities.
+DPIAs are like a map guiding them to spot, measure, and tone down potential privacy risks.
+Experienced a data breach? GDPR strictly instructs organizations to report about it to the supervisory authority within 72 hours of the realization, provided the breach could threaten individual rights and freedoms.
+GDPR mandates certain organizations to appoint a DPO, who's like a captain steering the company's GDPR compliance ship, coordinating with the supervisory authority, and also an accessible point for data subjects.
+Rules and Repercussions: GDPR Enforcement
+Every EU member state has its team of guardians, called Data Protection Authorities, supervising GDPR enforcement nationally.
+United, these teams lead the European Data Protection Board (EDPB), ensuring GDPR's consistent enforcement across the EU.
+The Price to Pay: Fines for Non-Compliance
+Step out of line, and GDPR imposes serious penalties, that could get up to 4% of the global annual turnover or €20 million of the breaching organization, depending on which hurts more.
+The Fine Metrics
+Not all breaches are repeated offenders; some are accidental! GDPR gets that and hence determines fines based on factors like nature, cooperation level, past records, and whether it was an intentional or unknowing misstep.
+GDPR Enforcement and Guidance
+While national DPAs lead enforcement efforts, the EDPB comes forward with advice on data protection matters, ensuring GDPR's interpretation and use are uniform all across EU countries.
+GDPR as a Global Standard
+Just like one superhero inspiring another, GDPR has influenced various countries to devise similar frameworks, like the California Consumer Privacy Act (CCPA) and Brazil's General Data Protection Law (LGPD).
+Thanks to GDPR, the EU shines bright as a global vanguard, ensuring top-notch data protection measures and vibrant data protection rights for everyone involved.
+Connect, Communicate, Convert
+Try BotPenguin
+Frequently Asked Questions (FAQs)
+What's GDPR all about?
+GDPR, standing for General Data Protection Regulation, is a robust data protection law that's active in the EU since May 25, 2018. It aims to grant individuals full control over their personal data.
+Have a business outside the EU? Are you still affected by GDPR?
+Absolutely! GDPR scans any organization dealing with personal data of EU residents, whether it's inside or outside the EU.
+What personal rights do you possess under GDPR?
+You hold quite a few solid rights such as accessing your data, rectifying it, erasing it, restricting how it's processed, porting your data, objecting to its processing, and protecting against decisions made solely via automated processing (even profiling).
+Which principles does GDPR operate on?
+GDPR operates on seven main principles: lawfulness, fairness, transparency; purpose limitation; data minimization; accuracy; storage limitation; integrity and confidentiality (security); and accountability.
+What happens when you breach GDPR rules?
+If you violate GDPR rules, you can be fined heavily - up to 4% of your global annual turnover or €20 million – whatever’s higher.
+Build your first AI chatbot for FREE in just 5 minutes!
+Get Started FREE
+Surprise! BotPenguin has fun blogs too
+We know you’d love reading them, enjoy and learn.
+What is a WhatsApp Campaign? (With Real-World Examples)
+Updated at Nov 15, 2024
+16 min to read
+BotPenguin
+Content Writer, BotPenguin
+A Comprehensive Look at Generative AI Use Cases Across Industries
+Updated at Nov 14, 2024
+14 min to read
+Manish Goyal
+AI Technical Lead, BotPenguin
+How Generative AI Models Help in Enhancing Chatbot Conversations
+Updated at Nov 14, 2024
+8 min to read
+Manish Goyal
+AI Technical Lead, BotPenguin
+Table of Contents
+What is GDPR?
+GDPR: Key Components
+The Path to GDPR Compliance
+Rules and Repercussions: GDPR Enforcement
+GDPR as a Global Standard
+Frequently Asked Questions (FAQs)
+BotPenguin is the best AI Chatbot maker platform. Create a Chatbot for WhatsApp, Website, Facebook Messenger, Telegram, WordPress & Shopify with BotPenguin - 100% FREE! Our chatbot creator helps with lead generation, appointment booking, customer support, marketing automation, WhatsApp & Facebook Automation for businesses. AI-powered No-Code chatbot maker with live chat plugin & ChatGPT integration.
+Mobile app
+iOS App
+Android App
+Fully Operational
+Status
+Mobile app
+iOS App
+Android App
+Fully Operational
+Status
+Platforms
+Microsoft Teams
+New
+Instagram
+New
+Whatsapp
+Telegram
+Facebook
+Websites
+Partners
+Whitelabel Partner
+Whatsapp Whitelabel Partner
+Implementation Partner
+Affiliate Partner
+Get Started
+Chatbot For Ecommerce
+Chatbot For Real Estate
+Chatbot For Education
+Chatbot For Travel
+All Templates
+Free Tools
+WhatsApp Link Generator
+WhatsApp QR Code Generator
+OpenAI API Pricing Calculator
+Chatbot ROI Calculator
+All Free Tools
+Integrations
+ChatGPT
+GoHighLevel
+Bitrix 24
+Zoho CRM
+Zapier
+All Integrations
+Resources
+Blogs
+Glossary
+Help Center
+Write for us
+Contact Us
+What’s New
+Product Updates
+Comparisons
+BotPenguin vs Manychat
+BotPenguin vs Tidio
+BotPenguin vs Tawk.to
+BotPenguin vs Wati
+BotPenguin vs Landbot
+All Comparisons
+Alternatives
+What you get
+Lead Generation Bot
+Support Bot
+Assistant Bot
+Platforms
+Microsoft Teams
+New
+Instagram
+New
+Whatsapp
+Telegram
+Facebook
+Websites
+Get Started
+Integrations
+Comparisons
+Partners
+Free Tools
+Resources
+What you get
+Terms & Conditions
+Privacy Policy
+Security
+GDPR
+Refund Policy
+Terms & Conditions
+Privacy Policy
+Security
+GDPR
+Refund Policy
+Copyright © 2018 - 2024 Relinns Technologies Pvt. Ltd. All RightsReserved.

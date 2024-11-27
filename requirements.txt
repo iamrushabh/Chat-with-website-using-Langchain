@@ -1,0 +1,6 @@
+langchain_huggingface
+langchain-community
+faiss-cpu
+transformers
+sentence-transformers
+InstructorEmbedding

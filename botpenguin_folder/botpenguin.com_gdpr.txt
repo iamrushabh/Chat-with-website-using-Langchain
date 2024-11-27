@@ -1,0 +1,182 @@
+URL: https://botpenguin.com/gdpr
+GDPR | BotPenguin-Trusted FREE AI Chatbot Maker with ChatGPT
+Why BotPenguin
+Product
+Solutions
+Pricing
+Partners
+Resources
+Login
+Get Started FREE
+Integrations
+Experience 80+ world-class integrations.
+Key Features
+Take your business to the next level with our awesome key features.
+Live Chat
+Stay in the loop with your clientele 24*7!
+Unified Inbox
+Serve your customers across all platforms.
+Analytics
+Speedtrack your growth with our top-of-the-line analytics tools!
+Mobile App
+Make, monitor, & manage your AI chatbots with our mobile app.
+CHATBOT COMPARISONS
+BotPenguin vs. Manychat
+BotPenguin vs. Tidio
+BotPenguin vs. Tawk.to
+BotPenguin vs. Wati
+BotPenguin vs. Interakt
+BotPenguin vs. AiSensy
+BotPenguin vs. Landbot
+WHAT CAN IT DO?
+Marketing Automation
+Make marketing a boon from the automation gods!
+FB Automation
+Engage with your customers on a deeper level.
+WhatsApp Automation
+Get that nifty automation for WhatsApp too!
+Appointment Bookings
+No more delays, BotPenguin’s got you here!
+Customer Support
+Your customers are in for a treat with this automation.
+Lead Generation
+Gain more lead without any extra effort or expenses
+WHO CAN USE IT?
+Healthcare
+Give your patients world-class healthcare service!
+Education
+Make admissions and automate processes in a jiffy!
+E-commerce
+Create the best E-commerce service with ease!
+Real Estate
+Make Real Estate great again with BotPenguin!
+Consultants
+Boost up with our one-stop marketing solution!
+SaaS
+Take your SAAS game to the next level with BotPenguin!
+Tours & Travels
+Provide extraordinary tour and travel services with BotPenguin!
+Insurance
+Launch AI-driven Insurance Bot to Promote, Sell, & Manage Policies.
+WHERE CAN IT RUN?
+Instagram Chatbot
+Attract leads, boost sales, and chat 24/7 with Instagram Chatbots.
+WhatsApp Chatbot
+Start conversing like a real person with BotPenguin!
+Telegram Chatbot
+Cutting-edge features for you to grow your business on Telegram.
+Facebook Chatbot
+Do everything at once with BotPenguin on Facebook.
+Websites Chatbot
+BotPenguin grows your website and keeps your customers engaged.
+Wordpress Chatbot
+BotPenguin thrives on WordPress and makes it awesome.
+Microsoft Teams Chatbot
+Maximize your teams productivity with MS Teams Bot.
+Shopify Chatbot
+Boost your Shopify Business With BotPenguin’s AI-powered chatbot.
+WooCommerce Chatbot
+Sell effortlessly on your WooCommerce store with BotPenguin.
+Squarespace Chatbot
+Get the most out of Squarespace with BotPenguin
+CUSTOM DEVELOPMENT
+Whitelabel ChatGPT
+Apply your branding on ChatGPT, Launch your own AI platform
+ChatGPT Custom Plugins
+Integrate your service straight into ChatGPT
+Custom Chatbot Development
+Build enterprise-grade chatbots with the best
+ChatGPT Clone
+Add functionality and branding on ChatGPT
+HIRE DEVELOPERS
+Chatbot Developers
+Build Lighter, Faster, Smarter-Efficiently
+ChatGPT Developers
+Ride the GPT wave with trained surfers
+ChatGPT Consultants
+Advice that makes the difference in your AI journey
+PARTNER PROGRAMS
+Partners Home
+Join hands with us, and welcome growth
+WhatsApp Whitelabel Partners
+Conquer the WhatsApp land with BotPenguin’s White Label Platform
+Whitelabel Partners
+Say hi to the best Whitelabel chatbot platform ever
+Affiliate Partners
+Earn more and keep your clients happier
+Implementation Partners
+As they say, a partner is worth trillions!
+PARTNER PRICING
+Whitelabel Chatbot Pricing
+Our pricing for Whitelabel Chatbot
+Implementation Partnership Pricing
+Our pricing for Implementation Partnership
+OUR RESOURCES
+Blogs
+Read the latest blogs on chatbots, AI, automations & more
+Videos
+Watch tutorials, webinars, and demos to master our chatbots.
+Case Study
+Read how BotPenguin transformed business communication
+E-book
+Explore e-books written by experts for all your business needs!
+Help Docs
+Find detailed guides and tips for all your chatbot needs.
+Newsroom
+Explore how BotPenguin is making headlines in the chatbot industry.
+Community Support
+Join our vibrant community to unlock exclusive content & expert guidance
+LATEST BLOG
+Why is BotPenguin the best platform to develop a chatbot?
+Introducing ChatGPT 4o for BotPenguin
+Create your first AI Chatbot
+Get Started FREE
+Your data is safe with GDPR compliant BotPenguin
+What is GDPR
+Services we use are GDPR Compliant
+What information we store of user?
+How we use this personal information?
+Allow users to delete personal data?
+How to make your Bot GDPR Compliant?
+Server logs:
+Privacy Policy
+Retention of your information
+How to contact us.
+AI powered BotPenguin understands that your privacy is paramount, it values and protects your data. BotPenguin is GDPR compliant to meet international standards of data privacy. It follows strict guidelines and policies to safeguard collected data through lead generation and customer support.
+What is GDPR
+The General Data Protection Regulation (GDPR) is a European privacy law which was enforced on May 25, 2018. The GDPR applies to all organizations established in the EU and to organizations, whether or not established in the EU, that process the personal data of EU data subjects in connection with either the offering of goods or services to data subjects in the EU or the monitoring of behavior that takes place within the EU. Personal data is any information relating to an identified or identifiable natural person.
+Services we use are GDPR Compliant
+We use the following services which are all GDPR Compliant.
+1. Amazon AWS Services https://aws.amazon.com/blogs/security/all-aws-services-gdpr-ready/
+2. Stripe Payment https://stripe.com/guides/general-data-protection-regulation
+What information we store of user?
+BOTPENGUIN CUSTOMERS:
+Email
+Password
+Stripe Payment Info
+BOT USERS:
+Facebook Scoped ID
+First NameProfile Locale Code Gender Time-zone
+Last Name
+Picture URL
+Locale Code
+Gender
+Time-zone
+How we use this personal information?
+We use Bot users’ information to send them messages on behalf of BotPenguin’s customers and display users on BotPenguin Live Chat feature.
+On behalf of BotPenguin customers, we use their information to send email alerts about leads, marketing materials, and users can also unsubscribe or stop these emails. We also send emails when the user requests human help through the chatbot.
+We do not store any sort of credit card information and we use Stripe for the payroll which is GDPR compliant platform.
+Allow users to delete personal data?
+We allow users to deactivate their account. Deactivation acts as soft delete and allows users to come back and restore their account in case they decide to do so. But if they want us to completely remove information they can contact us via email at support@botpenguin.com and we will completely delete the user’s information from our systems.
+Bot users’ data is automatically deleted after 90 days. In case BotPenguin customers want to download the data they can download it in form of an excel.
+How to make your Bot GDPR Compliant?
+It’s pretty simple.
+Document a consent: Just add a Yes/No question to your current bot, using Multi Choice, asking them if they would be happy to receive email updates. For example: “Shall we send you the latest updates?” or “To serve you better, we will save the data that you input to us. Are you ok with this?”.
+Giving your user the data: If your user requests you to share the data that you collected from them, you can share the email notification that you received from us. It contains everything we have collected about that particular user. Or you can go to the Inbox section and find this record, select it (tick in the first column) and download it.
+Deleting the data of your user: If your users ask you to delete their data, then you can go to the Inbox section, find this record, select it (tick in the first column) and press the Delete button. The data will be deleted permanently and it cannot be retrieved.
+Server logs:
+We maintain the server logs received from Facebook, for debugging issues and improving the performance for chatbots and our platform.
+We also store the IP Address of the Website on which the chatbot is attached, against a particular bot user, so we can check whether the user is online or not and we can show it on Live Chat Feature.
+Privacy policy:
+You can review our privacy policy at following url:
+https://botpenguin.com/privacy-policy
